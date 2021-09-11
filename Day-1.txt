@@ -1,0 +1,40 @@
+cat day1-file1.txt 
+    1  whoami
+    2  hostname -i 
+    3  date
+    4  echo ShowThisOffer
+    5  echo Show This Offer
+    6  echo 'This is offer'
+    7  cal
+    8  cal -j 
+    9  touch file1
+   10  cat >> file1 
+   11  cat file1 
+   12  cat >> file1 
+   13  cat file1 
+   14  rm file1 
+   15  pwd
+   16  ls
+   17  touch foo1 foo2 foo3
+   18  ls
+   19  ls - 
+   20  ls -l 
+   21  mkdir rr
+   22  ls 
+   23  ls -l 
+   24  ls
+   25  cd rr
+   26  pwd
+   27  touch rr.txt
+   28  ls
+   29  cat >> rr.txt
+   30  cat rr.txt 
+   31  cp rr.txt javeed.txt
+   32  ls
+   33  cat javeed.txt 
+   34  pwd
+   35  cd ..
+   36  history 
+   37  history >> day1-file1.txt
+
+--------------
